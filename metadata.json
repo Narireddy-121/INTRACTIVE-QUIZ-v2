@@ -1,0 +1,8 @@
+{
+  "name": "Quiz Master Pro",
+  "description": "Advanced online coding quiz with multiple programming languages, topic-based quizzes, difficulty levels, and detailed answer explanations.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
